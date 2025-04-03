@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dr-cyberx
+- 👋 Hi, I’m Vishal aka @dr-cyberx
 - 👀 I’m interested in solving Coding Problems
-- 🌱 I’m currently learning Mern stack more deeply
+- 🌱 I’m currently Contributing as a full stack UI engineer in AECC
 - 📫 How to reach me : twitter @drcyberx1
 - 💼 LinkedIn: www.linkedin.com/in/vishalk10
 
